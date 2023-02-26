@@ -1,0 +1,15 @@
+.footer-section{
+    padding: 5rem 0;
+   /*  background-color: #0d6efd; */
+}
+.footer-desc{
+    color: white ;
+    padding-top: 25px;
+}
+.copy-right{
+    background-color: #023B6D;
+    color: white;
+}
+.logo-img{
+  width: 170px;
+}
